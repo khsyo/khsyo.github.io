@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6acc97f5.chunk.css",
+    "main.js": "/static/js/main.1c040d2f.chunk.js",
+    "main.js.map": "/static/js/main.1c040d2f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.32359321.chunk.js": "/static/js/2.32359321.chunk.js",
+    "static/js/2.32359321.chunk.js.map": "/static/js/2.32359321.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1d44f9eed896db9e5071e1a291fc15e8.js": "/precache-manifest.1d44f9eed896db9e5071e1a291fc15e8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.6acc97f5.chunk.css.map": "/static/css/main.6acc97f5.chunk.css.map",
+    "static/media/canaan_homepage.png": "/static/media/canaan_homepage.95a9ee6f.png",
+    "static/media/hesong.png": "/static/media/hesong.ddfe9ca5.png",
+    "static/media/post_a_job.png": "/static/media/post_a_job.77e80b58.png",
+    "static/media/sign_up_function.png": "/static/media/sign_up_function.105c8d34.png"
+  }
+}
